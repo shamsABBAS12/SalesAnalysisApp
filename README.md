@@ -1,1 +1,1 @@
-# Data-Collection
+# Sales Prediction App
